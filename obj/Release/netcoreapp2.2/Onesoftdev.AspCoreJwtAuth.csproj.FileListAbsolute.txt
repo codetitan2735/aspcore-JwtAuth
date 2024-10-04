@@ -1,0 +1,9 @@
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\bin\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.deps.json
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\bin\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.dll
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\bin\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.pdb
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\obj\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.csprojAssemblyReference.cache
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\obj\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.csproj.CoreCompileInputs.cache
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\obj\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.AssemblyInfoInputs.cache
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\obj\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.AssemblyInfo.cs
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\obj\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.dll
+C:\Users\Andrew.Haine\source\repos\Onesoft Development\Onesoftdev.AspCoreJwtAuth\obj\Release\netcoreapp2.2\Onesoftdev.AspCoreJwtAuth.pdb
